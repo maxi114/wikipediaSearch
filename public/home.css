@@ -1,0 +1,16 @@
+#smaller-img{
+    width:40px;
+  }
+  body{
+    font-family:"Lobster",Times New Roman;
+    background-color:grey;
+  }
+  .container{
+    text-align:center;
+  }
+  h1{
+    padding-top:40px;
+  }
+  .body{
+    padding-top:150px;
+  }
